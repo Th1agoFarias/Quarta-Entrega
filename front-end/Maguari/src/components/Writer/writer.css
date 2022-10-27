@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.writer {
+
+  font-size: 5.50rem;
+  text-align: center;
+  margin-top: 10rem;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: var(--color1)
+
+}
+
+.writerJapanese {
+
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: var(--color2)
+
+}

@@ -1,0 +1,44 @@
+html,body {
+  color: var(--color1);
+}
+
+.s {
+ max-width: 50%;
+}
+.align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn-sakura {
+  background: var(--color2);
+  
+}
+
+.table { 
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 510px;
+  min-height: 80px;
+  background: #262a2b;
+  opacity: 0.9;
+  text-align: center;
+  margin: 1px auto;
+  border-radius: 20px;
+  padding-bottom: 30px;
+}
+
+.table-colors {
+
+  color: var(--color1);
+}
+
+.tr-hover:hover {
+  background: rgb(28,29,34);
+  background: linear-gradient(90deg, rgba(28,29,34,0) 0%, #3f7ac7 1%, #3f7ac7 50%, #3f7ac7 99%, rgba(28,29,34,0) 100%);
+  transition: 0.3s;
+}
+
